@@ -5,7 +5,7 @@ No incluyo código fuente debido a que es confidencial, pero sí muestro evidenc
 
 ## https://delfineco.com/equipo.html
 
-### Tecnologías utilizadas en el desarrollo del portal: PHP, JavaScript, CSS, jQuery y HTML.
+### Tecnologías Utilizadas
 
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
