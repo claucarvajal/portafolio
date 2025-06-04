@@ -57,5 +57,23 @@ No incluyo código fuente debido a que es confidencial, pero sí muestro evidenc
 ![image](https://github.com/user-attachments/assets/badf79cf-c30a-4f46-835d-071aaff431a8)
 
 ------------------------------------------------------------------------------------------
+## https://alcaldiadesangilsantander.org/gdpagos/index.php
+## https://alcaldiadesangilsantander.org/gddian/
+
+### Tecnologías Utilizadas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+
+</p>
+![image](https://github.com/user-attachments/assets/3e310196-e523-4ecf-af0f-c6a7991de7ba)
+![image](https://github.com/user-attachments/assets/3a8f0538-bc44-42ad-a975-a2c6a1b02f4e)
+
+
 
 
