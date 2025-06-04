@@ -22,3 +22,6 @@ No incluyo código fuente debido a que es confidencial, pero sí muestro evidenc
 
 ------------------------------------------------------------------------------------------
 ## https://gdeco.uts.edu.co/pagosuts/info.php?bulletProofEco=920a904ac1086201a522409d3363ffb8
+
+![image](https://github.com/user-attachments/assets/03ad18ab-0350-4d72-a800-f0b5c5f73bf9)
+
