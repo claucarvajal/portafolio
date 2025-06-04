@@ -4,6 +4,12 @@ Trabajé para la empresa **GD Eco (Delfín Eco)** como **Desarrolladora de Softw
 No incluyo código fuente debido a que es confidencial, pero sí muestro evidencias visuales de los portales públicos desarrollados.
 
 ## https://delfineco.com/equipo.html
-![image](https://github.com/user-attachments/assets/694463db-e9ff-4403-9ead-cdd5f8f83083)
+
+<p align="center">
+  <img src="![image](https://github.com/user-attachments/assets/694463db-e9ff-4403-9ead-cdd5f8f83083)" alt="Imagen 1" width="300"/>
+  <img src="![image](https://github.com/user-attachments/assets/5b74435e-a0f3-4f8c-a72a-c3c019404ca2)" alt="Imagen 2" width="300"/>
+</p>
+
+
 ![image](https://github.com/user-attachments/assets/5b74435e-a0f3-4f8c-a72a-c3c019404ca2)
 
