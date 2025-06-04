@@ -38,4 +38,15 @@ No incluyo código fuente debido a que es confidencial, pero sí muestro evidenc
 ![image](https://github.com/user-attachments/assets/81f8b6ef-8ea2-490c-8dc9-24e8994be889)
 
 ------------------------------------------------------------------------------------------
-## [https://gdeco.uts.edu.co/pagosuts/info.php?bulletProofEco=920a904ac1086201a522409d3363ffb8](https://ecogd.giron-santander.gov.co/gdpagos/index.php)
+## [https://gdeco.uts.edu.co/pagosuts/info.php?bulletProofEco=920a904ac1086201a522409d3363ffb8](https://ecogd.giron-santander.gov.co/gdpagos/index.php) 
+## https://ecogd.giron-santander.gov.co/gddian/
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/21cdbf2f-396c-4417-b053-90da327b2ab4" width="300"/>
+  <img src="https://github.com/user-attachments/assets/badf79cf-c30a-4f46-835d-071aaff431a8" width="300"/>
+</p>
+
+![image](https://github.com/user-attachments/assets/21cdbf2f-396c-4417-b053-90da327b2ab4)
+![image](https://github.com/user-attachments/assets/badf79cf-c30a-4f46-835d-071aaff431a8)
+
+
