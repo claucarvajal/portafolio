@@ -82,19 +82,17 @@ No incluyo código fuente debido a que es confidencial, pero sí muestro evidenc
 
 portal de **proveedores**
 
-## https://proveedores.marval.com.co/ords/r/api/gestion-proveedores/b%C3%BAsqueda-de-actualizaci%C3%B3n-an8?session=7674381036939
+## https://proveedores.marval.com.co/ords/r/api/gestion-proveedores/login?session=3298019435102
 
 ### Tecnologías Utilizadas
 
 <p align="left">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-<img src="https://img.shields.io/badge/Oracle%20APEX-336791?style=for-the-badge&logo=apachespark&logoColor=white" alt="Oracle APEX"/>
-<img src="https://img.shields.io/badge/PL%2FSQL-003B57?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL"/>
-<img src="https://img.shields.io/badge/API_REST-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="API REST"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-<img src="https://img.shields.io/badge/Oracle%20APEX-34495E?style=for-the-badge&logo=code&logoColor=white" alt="Oracle APEX"/>
-<img src="https://img.shields.io/badge/PL%2FSQL-00618A?style=for-the-badge&logo=databricks&logoColor=white" alt="PL/SQL"/>
-<img src="https://img.shields.io/badge/API%20REST-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="API REST"/>
-
+  <img src="https://img.shields.io/badge/Oracle%20APEX-336791?style=for-the-badge&logo=apachespark&logoColor=white" alt="Oracle APEX"/>
+  <img src="https://img.shields.io/badge/PL%2FSQL-003B57?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL"/>
+  <img src="https://img.shields.io/badge/API_REST-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="API REST"/>
 </p>
 
+![image](https://github.com/user-attachments/assets/75df2222-c1e8-475d-b8db-b504902ac65e)
+
+![image](https://github.com/user-attachments/assets/7cd7c702-6f76-451d-b7e3-27a4c7f0f801)
