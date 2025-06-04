@@ -74,6 +74,6 @@ No incluyo código fuente debido a que es confidencial, pero sí muestro evidenc
 ![image](https://github.com/user-attachments/assets/3e310196-e523-4ecf-af0f-c6a7991de7ba)
 ![image](https://github.com/user-attachments/assets/3a8f0538-bc44-42ad-a975-a2c6a1b02f4e)
 
-
+------------------------------------------------------------------------------------------
 
 
