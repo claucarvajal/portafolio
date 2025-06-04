@@ -80,7 +80,7 @@ No incluyo código fuente debido a que es confidencial, pero sí muestro evidenc
 
 ## 2. MARVAL
 
-portal de **proveedores**
+portal de **PROVEEDORES**
 
 ## https://proveedores.marval.com.co/ords/r/api/gestion-proveedores/login?session=3298019435102
 
@@ -96,3 +96,23 @@ portal de **proveedores**
 ![image](https://github.com/user-attachments/assets/75df2222-c1e8-475d-b8db-b504902ac65e)
 
 ![image](https://github.com/user-attachments/assets/7cd7c702-6f76-451d-b7e3-27a4c7f0f801)
+
+------------------------------------------------------------------------------------------
+
+portal de **ANALYTICS**
+
+## https://analytics.app.marval.com.co/login
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+![image](https://github.com/user-attachments/assets/b2057e72-0260-4604-96b8-15a8d9c70291)
+
