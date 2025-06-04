@@ -5,9 +5,12 @@ No incluyo código fuente debido a que es confidencial, pero sí muestro evidenc
 
 ## https://delfineco.com/equipo.html
 
+### Tecnologías utilizadas en el desarrollo del portal: PHP, JavaScript, CSS, jQuery y HTML.
+
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/694463db-e9ff-4403-9ead-cdd5f8f83083" width="300"/>
   <img src="https://github.com/user-attachments/assets/5b74435e-a0f3-4f8c-a72a-c3c019404ca2" width="300"/>
 </p>
 
-s
+
