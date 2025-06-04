@@ -35,5 +35,5 @@ No incluyo código fuente debido a que es confidencial, pero sí muestro evidenc
 
 </p>
 
-![image](https://github.com/user-attachments/assets/03ad18ab-0350-4d72-a800-f0b5c5f73bf9)
+![image](https://github.com/user-attachments/assets/81f8b6ef-8ea2-490c-8dc9-24e8994be889)
 
