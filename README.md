@@ -6,10 +6,11 @@ No incluyo código fuente debido a que es confidencial, pero sí muestro evidenc
 ## https://delfineco.com/equipo.html
 
 <p align="center">
-  ![image](https://github.com/user-attachments/assets/694463db-e9ff-4403-9ead-cdd5f8f83083
-  ![image](https://github.com/user-attachments/assets/5b74435e-a0f3-4f8c-a72a-c3c019404ca2)
+  <img src="https://github.com/user-attachments/assets/694463db-e9ff-4403-9ead-cdd5f8f83083" width="300"/>
+  <img src="https://github.com/user-attachments/assets/5b74435e-a0f3-4f8c-a72a-c3c019404ca2" width="300"/>
 </p>
 
+  ![image](https://github.com/user-attachments/assets/694463db-e9ff-4403-9ead-cdd5f8f83083
 
 ![image](https://github.com/user-attachments/assets/5b74435e-a0f3-4f8c-a72a-c3c019404ca2)
 
