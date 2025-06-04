@@ -101,6 +101,8 @@ portal de **PROVEEDORES**
 
 portal de **ANALYTICS**
 
+Este portal cuenta con múltiples módulos que abarcan todo el proceso de un proyecto en una constructora. Es de uso interno y está orientado a diferentes perfiles como analistas, ingenieros, responsables de obra, inventario y logística. Incluye funcionalidades relacionadas con la entrega de viviendas, gestión de materiales de obra, metodologías Lean, entre otros aspectos clave del ciclo constructivo.
+
 ## https://analytics.app.marval.com.co/login
 
 <p align="left">
