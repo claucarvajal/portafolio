@@ -69,8 +69,8 @@ No incluyo código fuente debido a que es confidencial, pero sí muestro evidenc
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-
 </p>
+
 ![image](https://github.com/user-attachments/assets/3e310196-e523-4ecf-af0f-c6a7991de7ba)
 ![image](https://github.com/user-attachments/assets/3a8f0538-bc44-42ad-a975-a2c6a1b02f4e)
 
