@@ -91,5 +91,10 @@ portal de **proveedores**
 <img src="https://img.shields.io/badge/Oracle%20APEX-336791?style=for-the-badge&logo=apachespark&logoColor=white" alt="Oracle APEX"/>
 <img src="https://img.shields.io/badge/PL%2FSQL-003B57?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL"/>
 <img src="https://img.shields.io/badge/API_REST-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="API REST"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+<img src="https://img.shields.io/badge/Oracle%20APEX-34495E?style=for-the-badge&logo=code&logoColor=white" alt="Oracle APEX"/>
+<img src="https://img.shields.io/badge/PL%2FSQL-00618A?style=for-the-badge&logo=databricks&logoColor=white" alt="PL/SQL"/>
+<img src="https://img.shields.io/badge/API%20REST-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="API REST"/>
+
 </p>
 
