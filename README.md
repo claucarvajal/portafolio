@@ -79,3 +79,17 @@ No incluyo código fuente debido a que es confidencial, pero sí muestro evidenc
 ------------------------------------------------------------------------------------------
 
 ## 2. MARVAL
+
+portal de **proveedores**
+
+## https://proveedores.marval.com.co/ords/r/api/gestion-proveedores/b%C3%BAsqueda-de-actualizaci%C3%B3n-an8?session=7674381036939
+
+### Tecnologías Utilizadas
+
+<p align="left">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+<img src="https://img.shields.io/badge/Oracle%20APEX-336791?style=for-the-badge&logo=apachespark&logoColor=white" alt="Oracle APEX"/>
+<img src="https://img.shields.io/badge/PL%2FSQL-003B57?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL"/>
+<img src="https://img.shields.io/badge/API_REST-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="API REST"/>
+</p>
+
