@@ -24,6 +24,7 @@ No incluyo código fuente debido a que es confidencial, pero sí muestro evidenc
 
 ------------------------------------------------------------------------------------------
 ## https://gdeco.uts.edu.co/pagosuts/info.php?bulletProofEco=920a904ac1086201a522409d3363ffb8
+## https://gdeco.uts.edu.co/cupones/
 
 ### Tecnologías Utilizadas
 
@@ -38,6 +39,8 @@ No incluyo código fuente debido a que es confidencial, pero sí muestro evidenc
 </p>
 
 ![image](https://github.com/user-attachments/assets/81f8b6ef-8ea2-490c-8dc9-24e8994be889)
+![image](https://github.com/user-attachments/assets/b04b06ed-e682-43cd-8479-429ce846a4a3)
+
 
 ------------------------------------------------------------------------------------------
 ## [https://gdeco.uts.edu.co/pagosuts/info.php?bulletProofEco=920a904ac1086201a522409d3363ffb8](https://ecogd.giron-santander.gov.co/gdpagos/index.php) 
